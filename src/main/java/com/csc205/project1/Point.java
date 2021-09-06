@@ -66,5 +66,15 @@ public class Point {
     }
 }
 
-
+//Output: Project 1 : Point Tester
+//
+//Point 1: Point {x = 3.0, y = 1.0}
+//Point 2: Point {x = 6.0, y = 5.0}
+//
+//Distance: 5.0
+//
+//Rotated a 1.5707963267948966: Point {x = -0.9999999999999998, y = -0.9999999999999997}
+//Shifted b 4.47213595499958 away from original position: Point {x = 10.0, y = 3.0}
+//
+//Process finished with exit code 0
 
